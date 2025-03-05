@@ -1,0 +1,10 @@
+body{
+    background-color: #ff99c8;
+    color: #001d3d;
+    margin: auto;
+    max-width: 1500px;
+}
+img{
+    height: 300px;
+    width: 500px;
+}
